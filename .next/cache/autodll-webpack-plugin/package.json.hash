@@ -1,0 +1,1 @@
+{"name":"NextJS","version":"1.0.0","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit1 1","dev":"next","build":"next build","start":"next start"},"license":"MIT","dependencies":{"next":"^9.0.5","react":"^16.9.0","react-dom":"^16.9.0"},"readme":"ERROR: No README data found!","_id":"NextJS@1.0.0"}
